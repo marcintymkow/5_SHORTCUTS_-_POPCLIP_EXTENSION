@@ -29,6 +29,10 @@ Select any text → the PopClip bar appears with buttons 1–5 → tap a button 
 
 ---
 
-**Polski:** [README-PL.md](README-PL.md)
+License
+MIT
+
+Author
+Marcin Tymków
 
 Source: [PopClip Extensions Developer Reference](https://www.popclip.app/dev/)
